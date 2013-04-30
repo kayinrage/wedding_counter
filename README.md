@@ -1,6 +1,6 @@
-Wedding Counter
+# Wedding Counter
 
-Simple JS Wedding Counter Example<br/><br/>
+Simple JavaScript Wedding Counter Example<br/>
 
 All you have to do is change the very first line in js/clock.js<br/>
 wedding_date = new Date("December 31, 2014 16:00:00");<br/>
